@@ -1,0 +1,15 @@
+{
+  "name": "text-slabber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gil Fewster <gil@theroyals.com.au> (http://theroyals.com.au/)",
+  "license": "ISC",
+  "dependencies": {
+    "fitty": "^2.3.0"
+  }
+}
